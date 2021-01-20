@@ -4,4 +4,4 @@ pkg install php
 
 run:
 
-php all.php
+php b.php
